@@ -8,4 +8,8 @@ class Games extends Controller
     {
         return view('welcome');
     }
+
+    public function index(){
+        return view('welcome');
+    }
 }
