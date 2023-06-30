@@ -15,4 +15,8 @@ class Controller extends BaseController
         return view('welcome');
     }
 
+    public function gamesTest() {
+        return view('welcome');
+    }
+
 }
